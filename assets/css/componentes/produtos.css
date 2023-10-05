@@ -1,0 +1,67 @@
+.cartao {
+    background-color: var(--cor-contraste-claro);
+    border-radius: 10px;
+    box-shadow: var(--sombra);
+    width: 100%;
+    max-width: 45rem;
+    padding: 1.75rem;
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+    margin-left: 33rem;
+    margin-top: 13rem;
+}
+
+.cartao__titulo {
+    margin-left: 9.3rem;
+    margin-top: 7px;
+    font-size: 30px;
+}
+
+.nome1 {
+    margin-left: 14rem;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.nome2 {
+    margin-left: 17rem;
+    margin-top: 8px;
+    font-size: 18px;
+}
+
+.nome3 {
+    margin-left: 16rem;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.input-container {
+    display: flex;
+    margin-top: 2rem;
+    margin-left: 11.8rem;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 23px;
+}
+
+.input {
+    display: flex;
+    box-shadow: var(--sombra);
+    border-radius: 5px;
+    font-size: 23px;
+    margin-left: 182px;
+}
+
+.botao_cadastrar {
+    background-color: rgb(104, 11, 11);
+    border-radius: 7px;
+    font-size: 25px;
+    margin-top: 1rem;
+    padding: 1.125rem;
+    box-sizing: border-box;
+    color: var(--cor-contraste-claro);
+    align-items: center;
+    text-align: center;
+}
+
+
